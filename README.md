@@ -1,4 +1,4 @@
 Algorithms
 ==========
 
-Basic data structure and algorithm implementation on C
+Basic data structure and algorithms implementation in C. 
